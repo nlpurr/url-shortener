@@ -3,7 +3,7 @@ import {SiNotion, SiGithub} from 'react-icons/si';
 
 import {NOTION_DATABASE_URL} from '@/constants';
 
-// const Footer = () => (
+const Footer = () => (
 // 	<Center as="footer" flexDirection="column" mt={12}>
 // 		<Text
 // 			fontSize="xs"
@@ -37,6 +37,6 @@ import {NOTION_DATABASE_URL} from '@/constants';
 // 			</a>
 // 		</HStack>
 // 	</Center>
-// );
+);
 
 export default Footer;
