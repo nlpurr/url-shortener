@@ -25,16 +25,6 @@ const Footer = () => (
 					_hover={{color: 'gray.900'}}
 				/>
 			</a>
-<!-- 			<a href={NOTION_DATABASE_URL}>
-				<Icon
-					as={SiNotion}
-					width={5}
-					height={5}
-					color="gray.500"
-					transitionDuration="200ms"
-					_hover={{color: 'gray.900'}}
-				/>
-			</a> -->
 		</HStack>
 	</Center>
 );
