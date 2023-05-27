@@ -1,7 +1,7 @@
-// import {Center, Text, HStack, Icon} from '@chakra-ui/react';
-// import {SiNotion, SiGithub} from 'react-icons/si';
+import {Center, Text, HStack, Icon} from '@chakra-ui/react';
+import {SiNotion, SiGithub} from 'react-icons/si';
 
-// import {NOTION_DATABASE_URL} from '@/constants';
+import {NOTION_DATABASE_URL} from '@/constants';
 
 // const Footer = () => (
 // 	<Center as="footer" flexDirection="column" mt={12}>
@@ -39,4 +39,4 @@
 // 	</Center>
 // );
 
-// export default Footer;
+export default Footer;
